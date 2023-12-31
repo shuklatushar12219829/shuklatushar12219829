@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I’m currently learning **Javascript**<br><br>- 💬 Ask me about Java,C++<br><br>- 📫 How to reach me https://linktr.ee/shuklatushar226<br><br>- ⚡ Fun fact **I am funny<br>
+- 🌱 I’m currently learning **Java**<br><br>- 💬 Ask me about Java,C++<br><br>- 📫 How to reach me https://linktr.ee/shuklatushar226<br><br>- ⚡Fact **At the end everything is static<br>
 
 
 ## 🌐 Socials:
